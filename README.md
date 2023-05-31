@@ -1,5 +1,5 @@
 # YOTSUKI WEB
-*(Projeto feito em 2018)*
+*(Project made in 2018)*
 
 Website produced for the yotsuki project at the SENAI institution.
 
