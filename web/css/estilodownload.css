@@ -1,0 +1,91 @@
+/*Títulos*/
+h1
+{
+	background-color: rgb(0,115,152);
+	box-shadow: 0px 0px 20px black;
+	color: white;
+	font-size: 30pt;
+	padding: 20px;
+	text-align: center;
+	text-transform: uppercase;
+}
+h2
+{	
+	background-color: rgb(0,100,100);
+	box-shadow: 0px 0px 20px black;
+	color: white;
+	font-size: 25pt;
+	padding: 10px;
+	position: center;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+/*Parágrafos*/
+p
+{
+	background-color: rgb(0,115,170);
+	box-shadow: 0px 0px 20px black;
+	color: white;
+	line-height: 1.5;
+	margin-right: 500px;
+	padding: 10px;
+	text-align: justify;
+	text-transform: uppercase;
+}
+p#download
+{
+	background-color: rgb(0,115,170);
+	box-shadow: 0px 0px 20px black;
+	color: white;
+	line-height: 1.5;
+	margin-left: 35px;
+	margin-right: 500px;
+	padding: 10px;
+	text-align: justify;
+	text-transform: uppercase;
+}
+
+/*Links*/
+a#link
+{
+	background-color: rgb(0,170,115);
+	box-shadow: 0px 0px 20px black;
+	color: white;
+	line-height: 1.5;
+	margin-right: 500px;
+	padding: 10px;
+	text-align: justify;
+}
+
+/*Imagens*/
+#mediafire
+{
+	height: 154px;
+	margin-left: 10px;
+	padding: -50px;
+	width: 400px;
+}
+#passo1
+{
+	border: 10px double;
+	border-color: rgb(0,150,150);
+	padding-bottom: 20px;
+	position: center;
+}
+#voltar
+{
+	cursor:pointer;
+	margin-left: 120px;
+	margin-top: 80px;
+}
+#avancar
+{
+	cursor:pointer;
+	margin-right: 120px;
+	margin-top: 80px;
+}
+figure
+{
+	background-color: rgb(60,60,60);
+}
