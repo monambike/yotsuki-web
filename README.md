@@ -1,9 +1,8 @@
 # YOTSUKI
 
-A project aimed at creating a gamer-centric social network inspired by the Steam model, developed for SENAI.
+A project aimed at creating a gamer-centric social network inspired by the Steam model, developed for SENAI. This project was made in 2018.
 
 ## YOTSUKI WEB
-*(Project made in 2018)*
 
 Website produced for the yotsuki project at the SENAI institution.
 
@@ -17,7 +16,6 @@ Website produced for the yotsuki project at the SENAI institution.
 ![yotsuki-6](https://github.com/monambike/yotsuki-web/assets/35270174/1897f5e8-eef9-4386-a653-4c3c4330b4a5)
 
 ## YOTSUKI DESKTOP
-*(Project made in 2018)*
 
 A versão desktop do projeto yotsuki realizado na intituição SENAI. É um projeto de criação de perfil voltado para o mundo dos jogos.
 
