@@ -32,17 +32,22 @@ A versão desktop do projeto yotsuki realizado na intituição SENAI. É um proj
 
 ### Desktop Images
 
+#### Splash Screen
+
+<img src="https://github.com/monambike/yotsuki-web-desktop/assets/35270174/4a8be61d-b146-4e01-ade1-c99d2eb6940c" width="600">
+
+
 #### Start Screen
 
-<img src="https://github.com/monambike/yotsuki-desktop/assets/35270174/f7a6e0f4-d773-409e-b2e4-2b486bbf8830" width="600">
+<img src="https://github.com/monambike/yotsuki-web-desktop/assets/35270174/8e2bc151-deab-45f3-9684-f60bf4a40e0d" width="600">
 
 #### Sign-up Screen
 
-<img src="https://github.com/monambike/yotsuki-desktop/assets/35270174/57a5c723-78eb-4854-be9d-121f74cc2bfa" width="600">
+<img src="https://github.com/monambike/yotsuki-web-desktop/assets/35270174/fc074bef-507a-4bcc-b180-bc2b76246879" width="600">
 
-#### Game Sign-up Screen
+#### Login Screen
 
-<img src="https://github.com/monambike/yotsuki-desktop/assets/35270174/041f59cf-7744-4f6b-b126-e32206d6df15" width="600">
+<img src="https://github.com/monambike/yotsuki-web-desktop/assets/35270174/9771f4d7-0d27-492e-bc8d-efadaa234864" width="600">
 
 # Documentation
 
