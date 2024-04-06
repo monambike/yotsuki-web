@@ -1,5 +1,7 @@
 # YOTSUKI
 
+A project aimed at creating a gamer-centric social network inspired by the Steam model, developed for SENAI.
+
 ## YOTSUKI WEB
 *(Project made in 2018)*
 
