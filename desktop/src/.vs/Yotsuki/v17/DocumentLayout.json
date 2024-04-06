@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\yotsuki-web-desktop\\desktop\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA65F68-B77F-4C58-A5BF-454C4D59FBE2}|Yotsuki\\Yotsuki.csproj|g:\\yotsuki-web-desktop\\desktop\\src\\yotsuki\\frm3loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAA65F68-B77F-4C58-A5BF-454C4D59FBE2}|Yotsuki\\Yotsuki.csproj|solutionrelative:yotsuki\\frm3loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA65F68-B77F-4C58-A5BF-454C4D59FBE2}|Yotsuki\\Yotsuki.csproj|g:\\yotsuki-web-desktop\\desktop\\src\\yotsuki\\frm4perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAA65F68-B77F-4C58-A5BF-454C4D59FBE2}|Yotsuki\\Yotsuki.csproj|solutionrelative:yotsuki\\frm4perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA65F68-B77F-4C58-A5BF-454C4D59FBE2}|Yotsuki\\Yotsuki.csproj|g:\\yotsuki-web-desktop\\desktop\\src\\yotsuki\\frm2inscrever.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAA65F68-B77F-4C58-A5BF-454C4D59FBE2}|Yotsuki\\Yotsuki.csproj|solutionrelative:yotsuki\\frm2inscrever.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA65F68-B77F-4C58-A5BF-454C4D59FBE2}|Yotsuki\\Yotsuki.csproj|g:\\yotsuki-web-desktop\\desktop\\src\\yotsuki\\frm1inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAA65F68-B77F-4C58-A5BF-454C4D59FBE2}|Yotsuki\\Yotsuki.csproj|solutionrelative:yotsuki\\frm1inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA65F68-B77F-4C58-A5BF-454C4D59FBE2}|Yotsuki\\Yotsuki.csproj|g:\\yotsuki-web-desktop\\desktop\\src\\yotsuki\\frm6primeirouso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAA65F68-B77F-4C58-A5BF-454C4D59FBE2}|Yotsuki\\Yotsuki.csproj|solutionrelative:yotsuki\\frm6primeirouso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA65F68-B77F-4C58-A5BF-454C4D59FBE2}|Yotsuki\\Yotsuki.csproj|g:\\yotsuki-web-desktop\\desktop\\src\\yotsuki\\frm5termos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAA65F68-B77F-4C58-A5BF-454C4D59FBE2}|Yotsuki\\Yotsuki.csproj|solutionrelative:yotsuki\\frm5termos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA65F68-B77F-4C58-A5BF-454C4D59FBE2}|Yotsuki\\Yotsuki.csproj|g:\\yotsuki-web-desktop\\desktop\\src\\yotsuki\\frm0loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAA65F68-B77F-4C58-A5BF-454C4D59FBE2}|Yotsuki\\Yotsuki.csproj|solutionrelative:yotsuki\\frm0loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA65F68-B77F-4C58-A5BF-454C4D59FBE2}|Yotsuki\\Yotsuki.csproj|g:\\yotsuki-web-desktop\\desktop\\src\\yotsuki\\frm0loading.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAA65F68-B77F-4C58-A5BF-454C4D59FBE2}|Yotsuki\\Yotsuki.csproj|solutionrelative:yotsuki\\frm0loading.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frm2Inscrever.cs [Design]",
+              "DocumentMoniker": "G:\\yotsuki-web-desktop\\desktop\\src\\Yotsuki\\Frm2Inscrever.cs",
+              "RelativeDocumentMoniker": "Yotsuki\\Frm2Inscrever.cs",
+              "ToolTip": "G:\\yotsuki-web-desktop\\desktop\\src\\Yotsuki\\Frm2Inscrever.cs [Design]",
+              "RelativeToolTip": "Yotsuki\\Frm2Inscrever.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:05:42.536Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frm3LoginUser.cs [Design]",
+              "DocumentMoniker": "G:\\yotsuki-web-desktop\\desktop\\src\\Yotsuki\\Frm3LoginUser.cs",
+              "RelativeDocumentMoniker": "Yotsuki\\Frm3LoginUser.cs",
+              "ToolTip": "G:\\yotsuki-web-desktop\\desktop\\src\\Yotsuki\\Frm3LoginUser.cs [Design]",
+              "RelativeToolTip": "Yotsuki\\Frm3LoginUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:05:43.096Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm6PrimeiroUso.cs [Design]",
+              "DocumentMoniker": "G:\\yotsuki-web-desktop\\desktop\\src\\Yotsuki\\frm6PrimeiroUso.cs",
+              "RelativeDocumentMoniker": "Yotsuki\\frm6PrimeiroUso.cs",
+              "ToolTip": "G:\\yotsuki-web-desktop\\desktop\\src\\Yotsuki\\frm6PrimeiroUso.cs [Design]",
+              "RelativeToolTip": "Yotsuki\\frm6PrimeiroUso.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:06:34.119Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Frm1Inicio.cs [Design]",
+              "DocumentMoniker": "G:\\yotsuki-web-desktop\\desktop\\src\\Yotsuki\\Frm1Inicio.cs",
+              "RelativeDocumentMoniker": "Yotsuki\\Frm1Inicio.cs",
+              "ToolTip": "G:\\yotsuki-web-desktop\\desktop\\src\\Yotsuki\\Frm1Inicio.cs [Design]",
+              "RelativeToolTip": "Yotsuki\\Frm1Inicio.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:05:40.657Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frm4Perfil.cs [Design]",
+              "DocumentMoniker": "G:\\yotsuki-web-desktop\\desktop\\src\\Yotsuki\\Frm4Perfil.cs",
+              "RelativeDocumentMoniker": "Yotsuki\\Frm4Perfil.cs",
+              "ToolTip": "G:\\yotsuki-web-desktop\\desktop\\src\\Yotsuki\\Frm4Perfil.cs [Design]",
+              "RelativeToolTip": "Yotsuki\\Frm4Perfil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:06:31.522Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Frm5Termos.cs [Design]",
+              "DocumentMoniker": "G:\\yotsuki-web-desktop\\desktop\\src\\Yotsuki\\Frm5Termos.cs",
+              "RelativeDocumentMoniker": "Yotsuki\\Frm5Termos.cs",
+              "ToolTip": "G:\\yotsuki-web-desktop\\desktop\\src\\Yotsuki\\Frm5Termos.cs [Design]",
+              "RelativeToolTip": "Yotsuki\\Frm5Termos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:06:33.293Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Frm0Loading.cs [Design]",
+              "DocumentMoniker": "G:\\yotsuki-web-desktop\\desktop\\src\\Yotsuki\\Frm0Loading.cs",
+              "RelativeDocumentMoniker": "Yotsuki\\Frm0Loading.cs",
+              "ToolTip": "G:\\yotsuki-web-desktop\\desktop\\src\\Yotsuki\\Frm0Loading.cs [Design]",
+              "RelativeToolTip": "Yotsuki\\Frm0Loading.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:02:46.257Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Frm0Loading.Designer.cs",
+              "DocumentMoniker": "G:\\yotsuki-web-desktop\\desktop\\src\\Yotsuki\\Frm0Loading.Designer.cs",
+              "RelativeDocumentMoniker": "Yotsuki\\Frm0Loading.Designer.cs",
+              "ToolTip": "G:\\yotsuki-web-desktop\\desktop\\src\\Yotsuki\\Frm0Loading.Designer.cs",
+              "RelativeToolTip": "Yotsuki\\Frm0Loading.Designer.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAArwCwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:02:50.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
